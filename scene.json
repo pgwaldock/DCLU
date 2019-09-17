@@ -1,0 +1,30 @@
+{
+  "display": {
+    "title": "interactive-text",
+    "favicon": "favicon_asset"
+  },
+  "contact": {
+    "name": "Pete",
+    "email": "petewaldock@gmail.com"
+  },
+  "owner": "0x7979DBB8001e49561DdA0D9731D86250F71D8014",
+  "scene": {
+    "parcels": [
+      "-140,-83"
+    ],
+    "base": "-140,-83"
+  },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://signalling-01.decentraland.org"
+  },
+  "policy": {
+    "contentRating": "E",
+    "fly": true,
+    "voiceEnabled": true,
+    "blacklist": [],
+    "teleportPosition": ""
+  },
+  "main": "bin/game.js",
+  "tags": []
+}
